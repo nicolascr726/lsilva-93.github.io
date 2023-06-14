@@ -1,0 +1,27 @@
+#portada {
+    /* imagen de fondo para la portada 
+    
+    Para que la seccion portada tenga un tamaño a la pantalla y pueda mostrar la imgen de fondo 
+    height: 700px;
+    width: 1500px;*/
+    background-image: url(../img/portada.jpg);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#tituloportada {
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: aliceblue;
+}
+#Educacion {
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#Experiencia {
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
